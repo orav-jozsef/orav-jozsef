@@ -5,17 +5,17 @@
 
 <h3>Known Languages 🌐</h3>
 
-![C-25%](https://img.shields.io/badge/C-25%-bf3f00)
-![C++-15%](https://img.shields.io/badge/C++-15%-d82600)
-![C#-45%](https://img.shields.io/badge/C%23-45%-8c7200)
-![Java-55%](https://img.shields.io/badge/Java-55%-728c00)
-![JavaScript-85%](https://img.shields.io/badge/JavaScript-85%-26d800)
-![TypeScript-80%](https://img.shields.io/badge/TypeScript-80%-32cc00)\
-![HTML-100%](https://img.shields.io/badge/HTML-100%-00ff00)
-![Style(.css, .less, .scss)-75%](https://img.shields.io/badge/Style-75%-3fbf00)
-![PhP-65%](https://img.shields.io/badge/PhP-65%-59a500)
-![Python-20%](https://img.shields.io/badge/Python-20%-cc3300)
-![Lua-80%](https://img.shields.io/badge/Lua-80%-969d5e)
+![C-25%](https://img.shields.io/badge/C-25%25-bf3f00)
+![C++-15%](https://img.shields.io/badge/C++-15%25-d82600)
+![C#-45%](https://img.shields.io/badge/C%23-45%25-8c7200)
+![Java-55%](https://img.shields.io/badge/Java-55%25-728c00)
+![JavaScript-85%](https://img.shields.io/badge/JavaScript-85%25-26d800)
+![TypeScript-80%](https://img.shields.io/badge/TypeScript-80%25-32cc00)\
+![HTML-100%](https://img.shields.io/badge/HTML-100%25-00ff00)
+![Style(.css, .less, .scss)-75%](https://img.shields.io/badge/Style-75%25-3fbf00)
+![PhP-65%](https://img.shields.io/badge/PhP-65%25-59a500)
+![Python-20%](https://img.shields.io/badge/Python-20%25-cc3300)
+![Lua-80%](https://img.shields.io/badge/Lua-80%25-969d5e)
 
 <h3>Used Frameworks ⚙️</h3>
 
@@ -29,7 +29,8 @@
 
 **Cisco Networking Academy**: IoT Fundamentals: Big Data & Analytics
 
-## GitHub Statistics 📊
+<h3>GitHub Statistics 📊</h3>
+
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=orav-jozsef&show_icons=true&theme=radical)
 
 <!--
